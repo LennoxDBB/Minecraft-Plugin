@@ -1,0 +1,11 @@
+name: ProjectSpace
+author: LennoxDBB
+version: 1.0.0
+api-version: '1.21'
+main: de.dbb.space.main.Main
+
+commands:
+  gems:
+    aliases: [gem, jewels, money, cash]
+    description: Edelsteine eines Spielers anzeigen
+    usage: /gems <name>
